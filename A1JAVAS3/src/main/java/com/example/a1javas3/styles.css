@@ -1,0 +1,34 @@
+/* styles.css */
+#mainVBox {
+    -fx-background-color: #f2f2f2; /* Set background color for the main VBox */
+}
+
+#headerHBox {
+    -fx-background-color: #3399ff; /* Set background color for the header HBox */
+    -fx-padding: 10; /* Add padding for better visual appeal */
+    -fx-border-radius: 5; /* Add rounded corners */
+}
+
+.header-label {
+    -fx-text-fill: white; /* Set text color for the header label */
+}
+
+.custom-date-picker {
+    -fx-font-size: 14; /* Set font size for the DatePicker */
+}
+
+.custom-button {
+    -fx-background-color: #4CAF50; /* Set background color for the button */
+    -fx-text-fill: white; /* Set text color for the button */
+    -fx-border-radius: 5; /* Add rounded corners */
+}
+
+.custom-table-view {
+    -fx-background-color: #ffffff; /* Set background color for the TableView */
+    -fx-border-radius: 5; /* Add rounded corners */
+}
+
+.custom-pie-chart {
+    -fx-background-color: #ffffff; /* Set background color for the PieChart */
+    -fx-border-radius: 5; /* Add rounded corners */
+}
